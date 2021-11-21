@@ -11,7 +11,7 @@
 
 ### Deploy to Heroku 🔥🕺 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suryaprabhas1244/Inline-media-search-Bot)
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suryaprabhas1245/Inline-media-search-Bot)
 
 
 
