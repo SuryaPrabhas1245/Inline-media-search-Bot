@@ -1,4 +1,4 @@
-<h1 align="center"><b>Inline media search Bot 🇱🇰</b></h1>
+<h1 align="center"><b>Movie Search Bot 🔥</b></h1>
 
 # Features 
 
@@ -11,18 +11,11 @@
 
 ### Deploy to Heroku 🔥🕺 
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/Inline-media-search-Bot)
-
-###              The easiest way to deploy this  Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/youtubeslgeekshow/Inline-media-search-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/suryaprabhas1244/Inline-media-search-Bot)
 
 
-
-
-### Easy Way
 
   
-
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -58,3 +51,6 @@ stats - get recent user stats
 broadcast - broascast any message to all the users of the bot
 ```
 
+## Credits
+
+→ [Surya Prabhas](https://t.me/suryaprabhas1245)
