@@ -48,20 +48,20 @@ SESSION_NAME = os.environ.get("SESSION_NAME", "Mod app bot")
 default_start_massege = """
 **Hi {}👋
 
-I'm Mod app  Search Bot**
+I'm Movie Search Bot**
 
 You can start searching by the "Search Mod 🔎" button below 😊
 """
 
 default_share_button_text = """
-Mod app  Search Bot 🇱🇰
+Movie Search Bot 
 
 Here you can find any media file by searching its name 😊
 
 Bot : {username} 🤖
-Support Group : @slbotzone  🇱🇰
-Updates Channel: @sl_bot_zone 🇱🇰
-Developper : @supunma🇱🇰
+Group : @TeluguDubbedHorrorMovies2  
+Updates Channel: @sl_bot_zone 
+Developper : @suryaprabhas1245
 """
 
 START_MSG = environ.get('START_MSG', default_start_massege)
